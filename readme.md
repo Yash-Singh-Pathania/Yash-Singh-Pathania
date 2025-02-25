@@ -6,8 +6,7 @@ Welcome to my GitHub profile, where code meets creativity and ambition. Here's a
 
 ## 🎯 What I’m Currently Building
 
-- **Hawkeye**: A retail AI-based CCTV SaaS that tracks hot zones, customer patterns, and more. Transforming data into actionable insights.
-- **Astra Multi-Agent Systems**: Developing systems where bots collaborate to tackle complex tasks—the future of AI collaboration.
+- **Invision**: A retail AI-based CCTV SaaS that tracks hot zones, customer patterns, and more. Transforming data into actionable insights. Using a transformer Model For the same 
 
 ## 🤝 Let’s Collaborate On
 
